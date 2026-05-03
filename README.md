@@ -77,7 +77,6 @@ I build modular systems, security plugins, automation workflows, and AI‑powere
 ---
 
 # 📫 **Contact**
-- Email: your-email-here  
-- LinkedIn: your-link-here  
-- Portfolio: your-site-here  
+- Email: mody.mnz33@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mahmoudghorab 
 
